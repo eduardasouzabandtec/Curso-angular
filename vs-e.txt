@@ -1,0 +1,11 @@
+Color Highlight
+Dracula Official / Omni Theme
+
+HTML CSS Support
+JavaScript (ES6) code snippets
+Live Server
+Material Icon Theme
+npm
+Power Mode
+
+
